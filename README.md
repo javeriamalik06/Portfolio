@@ -1,5 +1,5 @@
 
-# Javeria Malik - Data Analysis/Science Portfolio
+# Javeria Malik - Data Analysis Portfolio
 
 Hi! I am Javeria, a data analyst and aspiring data scientist with a strong foundation in business.
 
