@@ -267,7 +267,7 @@ FIND THE INTERACTIVE DASHBOARD [HERE](https://project.novypro.com/xq4nsJ)
 
 ---
 
-## [FIFA World Cup PowerBi Dashboard](https://github.com/javeriamalik06/Adv-DS-and-Python-for-Finance)<a name="fifa-dashboard"></a>
+## [FIFA World Cup PowerBi Dashboard]()<a name="fifa-dashboard"></a>
 
 ![FIFA World Cup PowerBi Dashboard](https://raw.githubusercontent.com/javeriamalik06/portfolio/main/FIFA%20World%20Cup.png)
 
